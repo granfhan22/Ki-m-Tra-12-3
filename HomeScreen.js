@@ -9,7 +9,7 @@ export default function HomeScreen() {
       <View style={styles.header}>
         <View style={styles.textContainer}>
           <Text style={styles.greeting}>Hello 👋</Text>
-          <Text style={styles.username}>Nguyễn Đức Minh</Text>
+          <Text style={styles.username}>User</Text>
         </View>
         <Image
           style={styles.profileImage}
